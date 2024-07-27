@@ -1,5 +1,4 @@
 # Geração Caldeira 2024
----
 Atividades realizadas para praticar Lógica de Programação.
 ---
 Programa de estudos pela plataforma da Alura em conjunto com o Geração Caldeira.
